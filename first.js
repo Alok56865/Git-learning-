@@ -5,5 +5,4 @@ let balance = 1234;
 function updateBalance(value){
     balance+=value;
 }
-
 console.log("Hello World");
